@@ -1,10 +1,12 @@
+coucou
+
 # Objectif de la semaine
 
-Salut à tous, 
+Salut à tous,
 
 Pour notre première semaine ensemble vous allez suivre une série d'activités dédiées à vous introduires aux métiers du Web.
 
-Nous commencerons par une activité Culture Web menée par David et Christophe. 
+Nous commencerons par une activité Culture Web menée par David et Christophe.
 S'en suivra une introduction technique au Web par Jeremy et Julie.
 
 Dans le courant de votre première journée vous recevrez le matériel nécessaire à votre formation, nous vous présenterons les outils que nous utiliserons tout au long des prochaines semaines.
